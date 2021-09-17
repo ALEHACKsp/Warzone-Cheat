@@ -11,7 +11,7 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3D8146DE-8064-46C0-9E70-CEEC357B2290}.Release|x64.ActiveCfg = Release|x64
-		{3D8146DE-8064-46C0-9E70-CEEC357B2290}.Release|x64.Build.0 = Release|x64
+		{3D8146DE-8064-46C0-9E70-CEEC357B2290}.Release|x64.Build = Release|x64
 		{3D8146DE-8064-46C0-9E70-CEEC357B2290}.Release|x64.Deploy.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
